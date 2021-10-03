@@ -1,0 +1,25 @@
+{
+  "name": "project_for_learning_sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp":"gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reckit075/Project_for_learning_sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reckit075/Project_for_learning_sass/issues"
+  },
+  "homepage": "https://github.com/Reckit075/Project_for_learning_sass#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.42.1"
+  }
+}
